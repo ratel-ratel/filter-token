@@ -1,0 +1,11 @@
+tokenkey:
+  appId: "100000064"
+  secret: "aiHpJWIlmXhb7Jrw"
+  couponSecret: "2mtgxuth0du6ei36"
+  enabled: true  #启用过滤或关闭过滤
+  signMap:  #每组可以有不同的秘钥
+    "100000054": "Qquiooxx129kKRee"
+  filter-mappings: # 需要过滤的路径
+    - /test/*
+  ignore-mappings:  #忽略的路径
+    - /gsCouponDetail/*

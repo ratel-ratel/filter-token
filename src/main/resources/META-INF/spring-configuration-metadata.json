@@ -1,0 +1,18 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.ratel.sign.properties.TokenKey",
+      "name": "tokenkey",
+      "type": "com.ratel.sign.properties.TokenKey"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.ratel.sign.properties.TokenKey",
+      "defaultValue": false,
+      "name": "tokenkey.enabled",
+      "type": "java.lang.Boolean"
+    }
+  ]
+}
